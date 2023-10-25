@@ -1,13 +1,33 @@
-<h1 align="center">Hi 👋, I'm Kristian</h1>
-<h3 align="center">As a junior C# web developer with a solid foundation in web development, I bring a versatile skill set that includes expertise in C# and Javascript. My academic background, along with personal projects, showcases my ability to work with these technologies to create dynamic web applications. I am motivated to gain practical experience in the field, leveraging my skills in both C# and Javascript to contribute to innovative web solutions.</h3>
+<h1 align="left">👋 Hi, I'm Kristian Dimitrov!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krisdimitrov03&label=Profile%20views&color=0e75b6&style=flat" alt="krisdimitrov03" /> </p>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kristian-dimitrov-5011a8238/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/krisdimitrov03) 
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/kristian.dimitrov.144/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krisdimitrov03&show_icons=true&locale=en&layout=compact" alt="krisdimitrov03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krisdimitrov03&show_icons=true&locale=en" alt="krisdimitrov03" /></p>
+![counter](https://komarev.com/ghpvc/?username=krisdimitrov03v&style=flat-square)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krisdimitrov03" alt="krisdimitrov03" /></a> </p>
+<h2>About me</h2>
+<p align="left">As a junior C# web developer with a solid foundation in web development, I bring a versatile skill set that includes expertise in C# and Javascript. My academic background, along with personal projects, showcases my ability to work with these technologies to create dynamic web applications. I am motivated to gain practical experience in the field, leveraging my skills in both C# and Javascript to contribute to innovative web solutions.</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br/>
+<h2>My study experience</h2>
+
+* 🎓 Studied C# Web Development at Software University
+* 🏛 Currently studying Software Engineering at Sofia University "St. Kliment Ohridski"
+
+<br/>
+<h2>Skills and Technologies</h2>
+<code><img height="25" width="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/cpp_logo.png" /></code>
+<code><img height="25" width="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/csharp_icon.png" /></code>
+<code><img height="25" width="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/aspnet.png" /></code>
+<code><img height="25" width="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/efcore_logo.png" /></code>
+<code><img height="25" width="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/sqlserver_logo.webp" /></code>
+<code><img height="25" width="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/js_logo.png" /></code>
+<code><img height="25" width="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/react_logo.png" /></code>
+
+<br><br>
+<div>
+  <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=krisdimitrov03&count_private=true&true&hide=issues&show_icons=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisdimitrov03&layout=compact" />
+</div>
