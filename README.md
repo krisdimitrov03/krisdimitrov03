@@ -33,8 +33,8 @@
 * ### [<code><img height="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/livestats_logo.png" /></code> &nbsp; <span>Live Stats</span>]()
   * [Frontend](https://github.com/krisdimitrov03/LiveStats.Frontend)
   * [Backend](https://github.com/krisdimitrov03/LiveStats.Backend)
-* #### [<code><img height="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/sha256_logo.png" /></code> &nbsp; <span>Sha256 Manager</span>](https://github.com/krisdimitrov03/Sha256)
-* #### [<code><img height="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/uberapp_logo.png" /></code> &nbsp; <span>Uber Application</span>](https://github.com/krisdimitrov03/UberApp)
+* ### [<code><img height="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/sha256_logo.png" /></code> &nbsp; <span>Sha256 Manager</span>](https://github.com/krisdimitrov03/Sha256)
+* ### [<code><img height="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/uberapp_logo.png" /></code> &nbsp; <span>Uber Application</span>](https://github.com/krisdimitrov03/UberApp)
 
 <br>
 <h2>Profile Statistics</h2>
