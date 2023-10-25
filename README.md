@@ -18,13 +18,14 @@
 
 <br/>
 <h2>Skills and Technologies</h2>
-<code><img height="25" width="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/cpp_logo.png" /></code>
-<code><img height="25" width="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/csharp_icon.png" /></code>
-<code><img height="25" width="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/aspnet.png" /></code>
-<code><img height="25" width="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/efcore_logo.png" /></code>
-<code><img height="25" width="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/sqlserver_logo.webp" /></code>
-<code><img height="25" width="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/js_logo.png" /></code>
-<code><img height="25" width="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/react_logo.png" /></code>
+<code><img height="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/cpp_logo.png" /></code>
+<code><img height="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/csharp_icon.png" /></code>
+<code><img height="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/aspnet.png" /></code>
+<code><img height="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/efcore_logo.png" /></code>
+<code><img height="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/sqlserver_logo.webp" /></code>
+<code><img height="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/js_logo.png" /></code>
+<code><img height="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/react_logo.png" /></code>
+<code><img height="25" src="https://github.com/krisdimitrov03/krisdimitrov03/blob/main/img/git_logo.png" /></code>
 
 <br><br>
 <div>
